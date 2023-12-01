@@ -3,9 +3,9 @@ body{
 }
 
 hr{
+    border-color: black;
     border-style: none;
     border-top-style: dotted;
-    border-color: black;
     border-width: 5px;
     width: 5%;
 }
@@ -17,3 +17,18 @@ h1{
 h3{
     color: #66bfbf;
 }
+
+.image {
+    border-radius: 100px;
+}
+
+img:hover { 
+    border-color: green;
+    border-style: dotted;
+   
+}
+
+#name{
+    color: black;
+}
+
